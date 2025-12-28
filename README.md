@@ -22,7 +22,7 @@ O projeto tem **finalidade didática e acadêmica**, sendo adequado para avalia�
 ## 📂 Estrutura do Projeto
 
 src/
-├── Agenda.java
+├── Agenda.java<br>
 ├── Contato.java
 └── AgendaGUI.java
 
