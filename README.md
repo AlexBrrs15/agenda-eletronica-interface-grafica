@@ -97,7 +97,7 @@ A interface foi projetada com foco em:
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/agenda-eletronica-interface-grafica.git
+ git clone https://github.com/seu-usuario/agenda-eletronica-interface-grafica.git
 
 2. Abra o projeto em uma IDE Java ou no GitHub Codespaces
 
